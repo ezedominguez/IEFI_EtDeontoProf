@@ -67,7 +67,7 @@ ________________________________________________________________________________
 
 > Error: El tamaño por defecto no es adecuado.
 
-> Solución: Se cambio el tamaño de toda las etiquetas < p > a 16,66px.
+> Solución: Se cambio el tamaño de todas las etiquetas < p > a 16,66px.
 
 [![accesibilidad](https://i.postimg.cc/Cxh88HhJ/1-4-4-Cambio-de-tama-o-del-texto-SOLUCION.jpg)](https://postimg.cc/LnWhKPZZ)
 
