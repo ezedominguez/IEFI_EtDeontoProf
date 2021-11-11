@@ -1,6 +1,6 @@
 [![ISPC.png](https://i.postimg.cc/PqppcGcZ/ISPC.png)](https://postimg.cc/67Kp2PB5)
 
-## IEFI | Ética y Deontología Profesional - TSDWAD - 2021
+# IEFI | Ética y Deontología Profesional - TSDWAD - 2021
 
 ### Integrantes:
 - DOMINGUEZ, Ezequiel
@@ -105,13 +105,22 @@ ________________________________________________________________________________
 
 [![accesibilidad](https://i.postimg.cc/zG9m93RZ/3-1-1-Language-of-Page-SOLUCION.jpg)](https://postimg.cc/VJBHtfRD)
 
+## WCAG 1.3.1 (Información y relaciones)
 
-## PARA REVISAR
+> Error:
+
+[![accesibilidad](https://i.postimg.cc/SshBx5rg/WCAG-1-3-1-ERROR.jpg)](https://postimg.cc/B8mYhmRF)
+
+[![accesibilidad](https://i.postimg.cc/bvkX88QG/WCAG-1-3-1-ERROR-P2.jpg)](https://postimg.cc/JyrYcfYm)
+
+> Solución:
+
+## WCAG 2.4.4 (Propósito del enlace (en contexto)) & WCAG 4.1.2 (Nombre, función, valor)
+
+> Error:
 
 [![accesibilidad](https://i.postimg.cc/Y02T1WTg/WCAG-2-4-4-WCAG-4-1-2-ERROR.jpg)](https://postimg.cc/TLSkxpdY)
 
 [![accesibilidad](https://i.postimg.cc/NMkW94CB/WCAG-2-4-4-WCAG-4-1-2-ERROR-P2.jpg)](https://postimg.cc/62THFdNm)
 
-[![accesibilidad](https://i.postimg.cc/SshBx5rg/WCAG-1-3-1-ERROR.jpg)](https://postimg.cc/B8mYhmRF)
-
-[![accesibilidad](https://i.postimg.cc/bvkX88QG/WCAG-1-3-1-ERROR-P2.jpg)](https://postimg.cc/JyrYcfYm)
+> Solución:
