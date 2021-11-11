@@ -21,7 +21,7 @@ ________________________________________________________________________________
 
 ## 1.1.1 Contenido no textual (A)
 
-> Error:
+> Error: La imágen no tiene texto descriptivo.
 
 [![accesibilidad](https://i.postimg.cc/DyxnY2gn/1-1-1-Non-text-Content-ERROR.jpg)](https://postimg.cc/LngcJFwb)
 
@@ -41,13 +41,7 @@ ________________________________________________________________________________
 
 [![accesibilidad](https://i.postimg.cc/43yMPSb3/WCAG-1-3-1-SOLUCION.jpg)](https://postimg.cc/3yMnJ9qM)
 
-## 1.4.1 Empleo del color (A)
-
-> Error:
-
-> Solución:
-
-## 1.4.3 Contraste (mínimo) (AA)
+## 1.4.1 Empleo del color (A) & 1.4.3 Contraste (mínimo) (AA)
 
 > Error: La presentación visual de texto e imágenes de texto tiene una relación de contraste de al menos 4.5:1.
 
