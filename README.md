@@ -25,15 +25,21 @@ ________________________________________________________________________________
 
 [![accesibilidad](https://i.postimg.cc/DyxnY2gn/1-1-1-Non-text-Content-ERROR.jpg)](https://postimg.cc/LngcJFwb)
 
-> Solución:
+> Solución: Se agregó alt="" dentro de la etiqueta <img>, para solucionar la descripción con un texto que haga referencia a la imágen.
 
 [![accesibilidad](https://i.postimg.cc/rwzcBvnW/1-1-1-Non-text-Content-SOLUCION.jpg)](https://postimg.cc/xXrWHFST)
 
 ## 1.3.1 Información y relaciones (A) (Cumplirlo respecto del orden de los encabezados)
 
-> Error:
+> Error: El elemento de lista tiene hijos directos que no están permitidos dentro de elementos <li>.
 
-> Solución:
+[![accesibilidad](https://i.postimg.cc/SshBx5rg/WCAG-1-3-1-ERROR.jpg)](https://postimg.cc/B8mYhmRF)
+
+[![accesibilidad](https://i.postimg.cc/bvkX88QG/WCAG-1-3-1-ERROR-P2.jpg)](https://postimg.cc/JyrYcfYm)
+
+> Solución: Se quitó la etiqueta <img> que estaba incluida dentro de la etiqueta <ul>, y se la agregó por fuera.
+
+[![accesibilidad](https://i.postimg.cc/43yMPSb3/WCAG-1-3-1-SOLUCION.jpg)](https://postimg.cc/3yMnJ9qM)
 
 ## 1.4.1 Empleo del color (A)
 
@@ -104,16 +110,6 @@ ________________________________________________________________________________
 > Solución:
 
 [![accesibilidad](https://i.postimg.cc/zG9m93RZ/3-1-1-Language-of-Page-SOLUCION.jpg)](https://postimg.cc/VJBHtfRD)
-
-## WCAG 1.3.1 (Información y relaciones)
-
-> Error:
-
-[![accesibilidad](https://i.postimg.cc/SshBx5rg/WCAG-1-3-1-ERROR.jpg)](https://postimg.cc/B8mYhmRF)
-
-[![accesibilidad](https://i.postimg.cc/bvkX88QG/WCAG-1-3-1-ERROR-P2.jpg)](https://postimg.cc/JyrYcfYm)
-
-> Solución:
 
 ## WCAG 2.4.4 (Propósito del enlace (en contexto)) & WCAG 4.1.2 (Nombre, función, valor)
 
