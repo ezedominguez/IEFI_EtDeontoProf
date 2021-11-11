@@ -1,10 +1,10 @@
-.tema{
-    text-align: center;
-}
-
 .titulo-h1{
     text-align: center;
     text-shadow: 1px 1px 1px #9a9fa5;
+}
+
+.sub {
+    text-decoration: underline;
 }
 
 /* PARRAFO CONTENIDO */
@@ -15,6 +15,8 @@
     width: 50%;
     text-align: justify;
 }
+
+/* ETIQUETAS (Estilos para corrección de ACCESIBILIDAD) */
 
 p{
     font-size: 18.66px;
@@ -31,8 +33,4 @@ h5{
 
 ul{
     font-size: 18.66px;
-}
-
-.sub {
-    text-decoration: underline;
 }
