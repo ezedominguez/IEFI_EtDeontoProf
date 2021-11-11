@@ -95,6 +95,16 @@ ________________________________________________________________________________
 
 [![accesibilidad](https://i.postimg.cc/8PXgmZpC/2-4-4-Link-Purpose-In-Context-SOLUCION.jpg)](https://postimg.cc/hfmYSb7F)
 
+> Error: Falta de texto vinculado a la imágen.
+
+[![accesibilidad](https://i.postimg.cc/Y02T1WTg/WCAG-2-4-4-WCAG-4-1-2-ERROR.jpg)](https://postimg.cc/TLSkxpdY)
+
+[![accesibilidad](https://i.postimg.cc/NMkW94CB/WCAG-2-4-4-WCAG-4-1-2-ERROR-P2.jpg)](https://postimg.cc/62THFdNm)
+
+> Solución: Se agrega texto (ISPC) vinculado a la imágen (logo).
+
+[![accesibilidad](https://i.postimg.cc/Bvq05ptY/WCAG-2-4-4-WCAG-4-1-2-SOLUCION.jpg)](https://postimg.cc/ZWD24r8p)
+
 ## 3.1.1 Idioma de la página  (A)
 
 > Error: Falta declaración del idioma a la página.
