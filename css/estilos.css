@@ -32,3 +32,7 @@ h5{
 ul{
     font-size: 18.66px;
 }
+
+.sub {
+    text-decoration: underline;
+}
